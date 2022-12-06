@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #EEEEEE;
+   
+
+}
+.main_div{
+   
+    width: 656px;
+    height: 550px;
+    background-color: white;
+    margin-top: 5px;
+    border-radius: 7px;
+}
+.sub_div{
+    border: 8px solid white;
+    border-radius: 5px;
+    padding: 15px;
+}
+.img_style{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+.style1{
+    background-image: url("banner_flag.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin-top: -15px;
+    color: white;
+    margin-right: -14px;
+ }
+ .style2{
+     margin-top: -10px;
+     background-color: green;
+     padding: 10px;
+     color: white;
+     margin-right: -14px;
+ }
+ .style3{
+     background-color: #6FB56C;
+     margin-top: -10px;
+     padding: 5px;
+     margin-right: -14px;
+     margin-bottom: -20px;
+ }
+ .style3 a{
+     
+     color: white;
+ }
+ .style3 a:hover{
+     text-decoration: none;
+ }
+#banner_style{
+    
+    text-align: left;
+   
+}
+
+.div3{
+    text-align: right;
+}
+.form_style{
+    border: 2px solid black;
+    padding: 60px;
+    margin: 20px 80px;
+    text-align: left;
+    background-color: white;
+}
+select{
+    border-radius: 5px;
+    width: 190px;
+}
+.res_sub{
+    text-align: right;
+    background-color: white;
+    margin-right: 28px;
+}
+.res_sub input{
+    border-radius: 5px;
+    padding: 1px;
+}
+label{
+    background-color: white;
+    text-align: left;
+    width: 150px;
+    }
+    .input1{
+        border-radius: 5px;
+        width: 190px;
+    }
+    .hr_style{
+       
+    }
+
+.footer_style{
+    
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 27px;
+    padding-top: 20px;
+    border: 8px solid white;
+}
